@@ -1,2 +1,2 @@
 # POO
-Exemplos das aulas de Programação Orientada a Objetos - Java
+Programas desenvolvidos na disciplina de Programação Orientada a Obejtos.
