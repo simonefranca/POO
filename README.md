@@ -1,2 +1,3 @@
 # POO
-Programas desenvolvidos na disciplina de Programação Orientada a Obejtos.
+
+Programas desenvolvidos na disciplina de Programação Orientada a Objetos.
